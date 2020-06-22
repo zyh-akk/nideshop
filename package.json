@@ -32,7 +32,7 @@
     "node-notifier": "^5.0.2",
     "think-watcher": "^3.0.0",
     "think-inspect": "0.0.2",
-    "think-babel": "^1.0.3",
+    "think-babel": "^2.0.0",
     "eslint": "^4.2.0",
     "eslint-config-think": "^1.0.0"
   },
